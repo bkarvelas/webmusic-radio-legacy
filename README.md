@@ -1,6 +1,6 @@
 # Web Music Radio Android App (Legacy)
 
-Listen WebMusic (Internet Radio Music Station) directly on your android device.
+Listen WebMusic (Internet Radio Music Station) and read website's articles directly on your android device.
 
 | Main Screen | Settings Screen |
 :-------------:|:-----------------:|
